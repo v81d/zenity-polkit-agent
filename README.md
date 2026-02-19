@@ -7,7 +7,20 @@
 
 Zenity Polkit Agent is a polkit authentication agent built with [Zenity](https://gitlab.gnome.org/GNOME/zenity) and [cmd-polkit](https://github.com/OmarCastro/cmd-polkit).
 
-## Installation
+## Quick Start
+
+The following guide provides instructions on how to build and run Zenity Polkit Agent.
+
+### Prerequisites
+
+Make sure you have the following packages installed:
+
+- [Bash](https://www.gnu.org/software/bash)
+- [jq](https://jqlang.org)
+- [Zenity](https://gitlab.gnome.org/GNOME/zenity)
+- [cmd-polkit](https://github.com/OmarCastro/cmd-polkit)
+
+### Installation
 
 To install Zenity Polkit Agent, follow the instructions below.
 

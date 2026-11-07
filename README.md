@@ -1,10 +1,5 @@
 # Zenity Polkit Agent
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/v81d/zenity-polkit-agent?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/v81d/zenity-polkit-agent?style=for-the-badge)
-![GitHub issues or pull requests](https://img.shields.io/github/issues/v81d/zenity-polkit-agent?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/v81d/zenity-polkit-agent?style=for-the-badge)
-
 Zenity Polkit Agent is a polkit authentication agent built with [Zenity](https://gitlab.gnome.org/GNOME/zenity) and [cmd-polkit](https://github.com/OmarCastro/cmd-polkit).
 
 ## Quick Start
